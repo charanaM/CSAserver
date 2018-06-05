@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="Login">
+      <implementation-class>CSA_cw1_ws.Login</implementation-class>
+    </service>
+    <service name="Threads">
+      <implementation-class>CSA_cw1_ws.Threads</implementation-class>
+    </service>
+    <service name="Chats">
+      <implementation-class>CSA_cw1_ws.Chats</implementation-class>
+    </service>
+  </services>
+  <clients/>
+</jax-ws>
